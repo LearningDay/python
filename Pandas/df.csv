@@ -1,0 +1,7 @@
+Format_Type,Data_Description,Reader,Writer
+text,CSV,read_csv,to_csv
+text,JSON,read_json,to_json
+text,HTML,read_html,to_html
+text,Local clipboard,read_clipboard,to_clipboard
+binary,MS Excel,read_excel,to_excel
+binary,HDF5 Format,read_hdf,to_hdf
