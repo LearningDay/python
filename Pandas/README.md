@@ -23,3 +23,9 @@
 18. [20181105时间序列_01.ipynb
 ](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/Pandas/20181105%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97_01.ipynb)
 19. [20181105时间序列_02timeSeries.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/Pandas/20181105%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97_02timeSeries.ipynb)
+20. [20181105时间序列_03采样resample()、绘图.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/Pandas/20181105%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97_03%E9%87%87%E6%A0%B7resample%28%29%E3%80%81%E7%BB%98%E5%9B%BE.ipynb)
+21. [20181105Pandas_07数据分箱Binning.ipynb
+](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/Pandas/20181105Pandas_07%E6%95%B0%E6%8D%AE%E5%88%86%E7%AE%B1Binning.ipynb)
+22. [20181105Pandas_08分组GroupBy，遍历.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/Pandas/20181105Pandas_08%E5%88%86%E7%BB%84GroupBy%EF%BC%8C%E9%81%8D%E5%8E%86.ipynb)
+23. [20181105Pandas_09聚合Aggregation遍历.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/Pandas/20181105Pandas_09%E8%81%9A%E5%90%88Aggregation%E9%81%8D%E5%8E%86.ipynb)
+24. [20181105Pandas_10透视表pivot_table.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/Pandas/20181105Pandas_10%E9%80%8F%E8%A7%86%E8%A1%A8pivot_table.ipynb)
