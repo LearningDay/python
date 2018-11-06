@@ -1,3 +1,10 @@
+
+* **数据分析报告**
+* 源文件→在文件夹[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
+* [20181030练习_CD销售数据分析报告.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181030%E7%BB%83%E4%B9%A0_CD%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
+
+***
+***
 **2018/10/26数据可视化**
 
 1. [ 20181101数据可视化.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/20181101%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.ipynb)
