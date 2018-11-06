@@ -1,10 +1,10 @@
 
-* **数据分析报告**
+# 数据分析报告
 * 查看源文件，点击→[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
 * [20181030练习_CD销售数据分析报告.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181030%E7%BB%83%E4%B9%A0_CD%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
 
 ***
-***
+# 数据可视化
 **2018/10/26数据可视化**
 
 1. [ 20181101数据可视化.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/20181101%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.ipynb)
@@ -13,4 +13,4 @@
 4. [子图subplot和subplots.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/Matplotlib/20181105Matplotlib%E7%AE%80%E5%8D%95%E7%BB%98%E5%9B%BE_02%E5%AD%90%E5%9B%BEsubplot%E5%92%8Csubplots.ipynb)
 
 ***
-**时间序列**
+# 时间序列
