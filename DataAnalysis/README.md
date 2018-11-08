@@ -6,7 +6,7 @@ import pandas_datareader as pdr
 start = datetime(2015,1,1)
 company = ['GOOG','FB','AAPL','MSFT','AMZN']
 top5 = pdr.get_data_yahoo(company,start=start)['Adj Close']
-···
+```
 **股票代码**
 * 'BABA'阿里巴巴
 * 'VIPS'唯品会
