@@ -1,7 +1,9 @@
 
-# 数据分析个人练习
+# 数据分析报告_个人练习
 * 查看源文件，点击→[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
 * [20181030练习_CD销售数据分析报告.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181030%E7%BB%83%E4%B9%A0_CD%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
+* [20181108股票数据分析_简单分析.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181108%E8%82%A1%E7%A5%A8%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90_%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90.ipynb)
+* [20181108股票数据_风险分析_分位数quantile().ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181108%E8%82%A1%E7%A5%A8%E6%95%B0%E6%8D%AE_%E9%A3%8E%E9%99%A9%E5%88%86%E6%9E%90_%E5%88%86%E4%BD%8D%E6%95%B0quantile%28%29.ipynb)
 
 ***
 # 数据可视化
