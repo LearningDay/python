@@ -1,5 +1,5 @@
 
-# 数据分析报告
+# 数据分析个人练习
 * 查看源文件，点击→[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
 * [20181030练习_CD销售数据分析报告.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181030%E7%BB%83%E4%B9%A0_CD%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
 
