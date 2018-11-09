@@ -1,4 +1,4 @@
-| Every Day's a Learning Day
+> Every Day's a Learning Day
 # 数据分析，python自学总结
 1. 数据分析工具**之一**，不可本末倒置
 2. 掌握了：数据分析时所需的Python知识，
