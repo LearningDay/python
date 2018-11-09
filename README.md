@@ -7,7 +7,7 @@
 ***
 # 各文件夹简介
 ## 1. 练习项目
-    * DataAnalysis
+   *  DataAnalysis
 ## 2. python数据分析必备包
     1. Matplotlib
         * 实现数据可视化
