@@ -9,25 +9,25 @@
 ## 1. 练习项目
    *  DataAnalysis
 ## 2. python数据分析必备包
-    1. Matplotlib
-        * 实现数据可视化
-        * 主要是起**pyplot模块**的使用
-    2. Numpy
-        * 一切的基础
-    3. Pandas
-        * 表格处理
-    4. seaborn
-        * 实现数据可视化
+  1. Matplotlib
+    * 实现数据可视化
+    * 主要是起**pyplot模块**的使用
+  2. Numpy
+    * 一切的基础
+  3. Pandas
+    * 表格处理
+  4. seaborn
+    * 实现数据可视化
 ## 3.处理自然语言
-    * NLP
-        * Natural Language Processing
+  * NLP
+    * Natural Language Processing
 
 
 
 
 ## 4 模板库
-    * Template
-        * 必须
+  * Template
+    * 必须
 
 
 
