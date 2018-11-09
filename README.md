@@ -3,7 +3,7 @@
 1. **不可本末倒置**，只是数据分析工具之一
 2. 仍需与时俱进，不可骄傲自满、固步自封
 3. 熟练度！！！
-   * 教程案例+工作项目+刻意练习
+   * 案例+工作项目+刻意练习
 
 ***
 
@@ -42,7 +42,8 @@
 
 ## 3. 模板库
   * Template
-    * python代码模板
+    * 解决实际问题的python代码模板
+    * 不断更新、积累
 ***
 # 数据分析项目
 * 查看源文件，点击→[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
