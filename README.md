@@ -1,3 +1,36 @@
+# 个人学习笔记
+## 内容包括
+* python3入门基础
+* python数据分析
+* python爬虫
+* **持续更新**
+***
+# 各文件夹简介
+## 1. 练习项目
+    * DataAnalysis
+## 2. python数据分析必备包
+    1. Matplotlib
+        * 实现数据可视化
+        * 主要是起**pyplot模块**的使用
+    2. Numpy
+        * 一切的基础
+    3. Pandas
+        * 表格处理
+    4. seaborn
+        * 实现数据可视化
+## 3.处理自然语言
+    * NLP
+        * Natural Language Processing
+
+
+
+
+## 4 模板库
+    * Template
+        * 必须
+
+
+
 
 # 数据分析报告_个人练习
 * 查看源文件，点击→[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
