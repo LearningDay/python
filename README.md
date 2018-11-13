@@ -8,6 +8,7 @@
 * [20181030练习_CD销售数据分析报告.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181030%E7%BB%83%E4%B9%A0_CD%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
 * [20181108股票数据分析_简单分析.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181108%E8%82%A1%E7%A5%A8%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90_%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90.ipynb)
 * [20181108股票数据_风险分析_分位数quantile().ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181108%E8%82%A1%E7%A5%A8%E6%95%B0%E6%8D%AE_%E9%A3%8E%E9%99%A9%E5%88%86%E6%9E%90_%E5%88%86%E4%BD%8D%E6%95%B0quantile%28%29.ipynb)
+* [2018年个人用电情况.ipynb：体会到，合适的数据读取方式【事半功倍】](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/2018%E5%B9%B4%E4%B8%AA%E4%BA%BA%E7%94%A8%E7%94%B5%E6%83%85%E5%86%B5.ipynb)
 ***
 
 # 数据分析工具，python自学笔记
