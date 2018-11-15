@@ -2,8 +2,6 @@
 
 
 作者：[儒冠多误身](https://blog.csdn.net/DataFrame?_blank)
-<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
-<a href="http://write.blog.csdn.net/postlist" target="_blank">http://write.blog.csdn.net/postlist</a>
 
 # 数据分析项目
 * 查看源文件，点击→[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
