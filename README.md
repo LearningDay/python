@@ -1,7 +1,7 @@
 > Every Day's a Learning Day
 
 
-作者：[儒冠多误身](https://blog.csdn.net/DataFrame,target="_blank")
+作者：[儒冠多误身](https://blog.csdn.net/DataFrame)
 
 # 数据分析项目
 * 查看源文件，点击→[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
