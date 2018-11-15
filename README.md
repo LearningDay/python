@@ -1,9 +1,9 @@
 > Every Day's a Learning Day
 
 
-作者：[儒冠多误身](https://blog.csdn.net/DataFrame?_blank)
+作者：[儒冠多误身](https://space.bilibili.com/20071568/#/)
 
-欢迎大家访问<a href="https://blog.csdn.net/DataFrame?_blank" target="_blank">个人博客</a>
+欢迎大家访问<a href="https://blog.csdn.net/DataFrame?_blank" target="_blank">本人博客</a>
 
 
 # 数据分析项目
