@@ -7,7 +7,7 @@ plt.rcParams['axes.unicode_minus']=False #解决‘-’显示为方框的问题
 plt.style.use('ggplot')
 ```
 
-* 推荐使用的中文显示方式
+* 推荐使用的中文显示方式-2018/11/19
 ```python
 plt.title('这是一个标题',fontproperties='STSong',fontsize=20)
 ```
