@@ -8,7 +8,7 @@
 
 # 数据分析项目
 * 查看源文件，点击→[DataAnalysis](https://github.com/LearningDay/python/tree/master/DataAnalysis)
-* ** [2018-19NBA球队数据集分析](https://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/NBA数据分析报告【面试】/nba数据分析报告【面试】.ipynb)**
+* **[2018-19NBA球队数据集分析](https://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/NBA数据分析报告【面试】/nba数据分析报告【面试】.ipynb)**
 
 * [2018年个人用电情况分析-提升pandas熟练度](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/2018%E5%B9%B4%E4%B8%AA%E4%BA%BA%E7%94%A8%E7%94%B5%E6%83%85%E5%86%B5.ipynb)
 * [20181030练习_CD销售数据分析报告.ipynb](http://nbviewer.jupyter.org/github/LearningDay/python/blob/master/DataAnalysis/20181030%E7%BB%83%E4%B9%A0_CD%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
