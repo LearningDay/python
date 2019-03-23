@@ -6,7 +6,7 @@
 欢迎大家访问<a href="https://blog.csdn.net/DataFrame?_blank" target="_blank">本人博客</a>
 
 
-* [【数据分析报告】NBA球队数据分析报告【by_杨腾飞】]（http://note.youdao.com/noteshare?id=750702b0b006aea05fa10a00b472fc68）
+* [【数据分析报告】NBA球队数据分析报告【by_杨腾飞】](http://note.youdao.com/noteshare?id=750702b0b006aea05fa10a00b472fc68)
 
 
 # 数据分析项目
